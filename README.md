@@ -1,2 +1,2 @@
 # Cat-greeter
-A cute cat greeting you waht more could you ask for
+A cute cat greeting you what more could you ask for
